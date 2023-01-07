@@ -1,0 +1,17 @@
+full-stack-leave-app
+create backend folder
+create server.js in backend folder
+type npm init in backend
+type npm install express --save in backend
+install nodemon for running frequently
+
+
+create-react-app frontend
+cd frontend
+npm start // will start react application
+clean the header in app.js
+
+create pages folder in src in frontend
+in pages create login.js and signup.js
+
+npm install react-router-dom in frontend
